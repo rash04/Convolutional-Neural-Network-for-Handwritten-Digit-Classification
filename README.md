@@ -5,7 +5,6 @@ A VGG inspired architecture is used to classify the handwritten images, after 95
 
 If you have any questions regarding the CNN implementation/results, feel free to contact me (rashik.habib@mail.mcgill.ca)
 
---For ConvNet.ipynb:
 	Each cell has a labelled cell # above it. Please follow the steps below based on those cell #s:
 		1. Run cell #0 - for necessary imports
 		2. Run cell #2a and then cell #2b - to preprocess the datasets
